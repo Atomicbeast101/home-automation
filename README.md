@@ -2,9 +2,9 @@
 
 Maintained a Home Assistant instance across multiple apartments and homes over the years, continuously expanding my smart home integrations and automation capabilities.
 
-* Smart Home Integration: Integrated a wide range of compatible devices and services into Home Assistant to create a unified smart home ecosystem.
-* Everyday Automation: Automated routine tasks, including vacuuming and monitoring door status to help ensure doors are closed and locked.
-* Accessibility-Focused Automation: Implemented visual alerts, including flashing doorbell notifications and smoke alarm alerts, to make my home more accessible and deaf-friendly.
+* **Smart Home Integration**: Integrated a wide range of compatible devices and services into Home Assistant to create a unified smart home ecosystem.
+* **Everyday Automation**: Automated routine tasks, including vacuuming and monitoring door status to help ensure doors are closed and locked.
+* **Accessibility-Focused Automation**: Implemented visual alerts, including flashing doorbell notifications and smoke alarm alerts, to make my home more accessible and deaf-friendly.
 
 ## Smart Home Design Principles
 
