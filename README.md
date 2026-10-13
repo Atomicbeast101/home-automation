@@ -1,5 +1,7 @@
 # Home Automation
 
+[![HomeAutomation_Diagram](/images/diagram.jpg)](/images/diagram.jpg)
+
 Maintained a Home Assistant instance across multiple apartments and homes over the years, continuously expanding my smart home integrations and automation capabilities.
 
 * **Smart Home Integration**: Integrated a wide range of compatible devices and services into Home Assistant to create a unified smart home ecosystem.
@@ -44,7 +46,3 @@ The following software powers my home automation environment, providing device i
 - **[Zigbee2MQTT](https://www.zigbee2mqtt.io/)** — Bridges Zigbee devices to MQTT, enabling Home Assistant to integrate and manage compatible devices.
 - **[Zwave2MQTT](https://github.com/OpenZWave/Zwave2Mqtt)** — Bridges Z-Wave devices to MQTT for integration with Home Assistant.
 - **[Fleet for ESPHome](https://github.com/weirded/fleet-for-esphome)** — Provides a centralized web interface for managing ESPHome devices, including deployment and firmware updates.
-
-## Diagram
-
-[![HomeAutomation_Diagram](/images/diagram.jpg)](/images/diagram.jpg)
