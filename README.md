@@ -14,6 +14,15 @@ Maintained a Home Assistant instance across multiple apartments and homes over t
 * **Independent Operation**: Ensure essential device controls remain functional even when Home Assistant is offline. For example, smart switches should continue to operate manually without relying on Home Assistant.
 * **Portability**: Favor devices and installations that are easy to install, remove, and relocate when moving between apartments or homes.
 
+## Software Stack
+
+The following software powers my home automation environment, providing device integration, communication between protocols, and centralized management.
+
+- **[Home Assistant](https://www.home-assistant.io/)** — Central home automation platform for integrating smart devices, managing automations, and controlling household systems.
+- **[Zigbee2MQTT](https://www.zigbee2mqtt.io/)** — Bridges Zigbee devices to MQTT, enabling Home Assistant to integrate and manage compatible devices.
+- **[Zwave2MQTT](https://github.com/OpenZWave/Zwave2Mqtt)** — Bridges Z-Wave devices to MQTT for integration with Home Assistant.
+- **[Fleet for ESPHome](https://github.com/weirded/fleet-for-esphome)** — Provides a centralized web interface for managing ESPHome devices, including deployment and firmware updates.
+
 ## Key Integrations & Automations
 
 ### Home Automation & Convenience
@@ -37,12 +46,3 @@ Maintained a Home Assistant instance across multiple apartments and homes over t
 ### 3D Printing & Electric Vehicle Charging
 - **3D Printer Status Notifications:** Receive updates on 3D printer status through Home Assistant integrations.
 - **EV Charging Management:** Integrate an OpenEVSE Advanced Series 48A Level 2 NACS charging station to schedule charging sessions and monitor power consumption for my Rivian R2.
-
-## Software Stack
-
-The following software powers my home automation environment, providing device integration, communication between protocols, and centralized management.
-
-- **[Home Assistant](https://www.home-assistant.io/)** — Central home automation platform for integrating smart devices, managing automations, and controlling household systems.
-- **[Zigbee2MQTT](https://www.zigbee2mqtt.io/)** — Bridges Zigbee devices to MQTT, enabling Home Assistant to integrate and manage compatible devices.
-- **[Zwave2MQTT](https://github.com/OpenZWave/Zwave2Mqtt)** — Bridges Z-Wave devices to MQTT for integration with Home Assistant.
-- **[Fleet for ESPHome](https://github.com/weirded/fleet-for-esphome)** — Provides a centralized web interface for managing ESPHome devices, including deployment and firmware updates.
